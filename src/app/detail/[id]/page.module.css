@@ -1,0 +1,9 @@
+.detailWrap {
+    margin: 5%;
+    border: 1px solid #ccc;
+    padding: 4%;
+}
+
+.detailWrap h3 {
+    margin-bottom: 10px;
+}
